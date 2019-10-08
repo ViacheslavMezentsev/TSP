@@ -5,7 +5,6 @@ For the purpose of this code, these considerations apply:
 - a City is a gene
 - a Tour is an individual
 
-The code does not (yet?) support command line parameters.
 The following configuration options are located inside the Env static class in Program.cs:
 
 **mutRate** should be a low value (1%-3%). How likely a single gene is to be mutated.
